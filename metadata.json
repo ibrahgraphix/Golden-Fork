@@ -1,0 +1,7 @@
+{
+  "name": "Golden Fork Restaurant",
+  "description": "An elegant, modern website for Golden Fork Restaurant in Dar es Salaam, Tanzania, featuring menu highlights, online reservations, and service details.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
